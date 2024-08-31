@@ -5,13 +5,15 @@
 ### Introduction
 
 
+
 ### Data Source
 
 Link Dataset: https://github.com/AlexTheAnalyst/MySQL-YouTube-Series/blob/main/layoffs.csv
 
 Link Project Video: https://www.youtube.com/watch?v=4UltKCnnnTA
 
-### Step followed:
+
+### Step followed
 
 - Removing Duplicates
 - Standardizing Data
