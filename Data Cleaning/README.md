@@ -1,6 +1,7 @@
 
 # Data Cleaning Project
 
+
 ### Introduction
 
 
@@ -11,7 +12,8 @@ Link Dataset: https://github.com/AlexTheAnalyst/MySQL-YouTube-Series/blob/main/l
 Link Project Video: https://www.youtube.com/watch?v=4UltKCnnnTA
 
 ### Step followed:
-1. Removing Duplicates
-2. Standardizing Data
-3. Null/Blank Values
-4. Remove Unnecessary Columns/Rows
+
+- Removing Duplicates
+- Standardizing Data
+- Null/Blank Values
+- Remove Unnecessary Columns/Rows
