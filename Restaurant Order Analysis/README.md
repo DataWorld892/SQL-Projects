@@ -3,7 +3,7 @@
 
 
 ### Introduction
-the goal of this project is to analyse into the customer data to see which menu items are doing well/not well and what the top customers seem to like best.
+The goal of this project is to analyse into the customer data to see which menu items are doing well/not well and what the top customers seem to like best.
 
 
 ### Data Source
