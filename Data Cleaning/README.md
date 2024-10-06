@@ -11,8 +11,6 @@ In this project a data cleanup was performed by making some operations such as r
 
 Link Dataset: https://github.com/AlexTheAnalyst/MySQL-YouTube-Series/blob/main/layoffs.csv
 
-Link Project Video: https://www.youtube.com/watch?v=4UltKCnnnTA
-
 
 ### Step followed
 
