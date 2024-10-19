@@ -17,17 +17,15 @@ Link Dataset: https://www.kaggle.com/datasets/mysarahmadbhat/pizza-place-sales
 
 ### Step followed
 
-Data Acquisition: Imported the CSV dataset into a MySQL server to enable efficient querying.
+- Data Acquisition: Imported the CSV dataset into a MySQL server to enable efficient querying.
 
-Data Cleaning: The data is cleaned and transformed to correct inconsistencies, ensuring accurate analysis.
+- Data Cleaning: The data is cleaned and transformed to correct inconsistencies, ensuring accurate analysis.
 
-SQL Database Design and Querying: A structured database schema is created, and SQL queries are used to extract key insights such as total sales revenue, best-selling pizzas, customer trends, and busiest times for orders.
+- Several SQL queries are written to perform an in-depth analysis of the data
+  
+- KPI Calculation: Key performance indicators (KPIs) like sales growth, average order value, and customer retention rates are calculated to assess store performance.
 
-KPI Calculation: Key performance indicators (KPIs) like sales growth, average order value, and customer retention rates are calculated to assess store performance.
-
-Power BI Dashboard Creation: The extracted insights and KPIs are visualized using interactive charts, graphs, and tables in a Power BI dashboard, allowing stakeholders to explore the data.
-
-Insights and Recommendations: The analysis concludes with actionable insights and recommendations for optimizing the pizza store's operations and improving profitability.
+- Created a Dashboard using Power BI 
 
 
 ### Questions
